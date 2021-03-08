@@ -4,5 +4,3 @@ Beacon coverage: [![Test Coverage](https://codeclimate.com/github/egeemirozkan/G
 
 # Galactic News Network
 Ever wondered what would stars lightyears away would have heard only if they had access to internet in light speed? Wonder no more...
-
-[![tweet.png ](tweet.png  "Follow")](http://twitter.com/gnn_alphacenta)
